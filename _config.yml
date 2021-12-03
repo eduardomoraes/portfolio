@@ -1,11 +1,18 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Eduardo Moraes # your name (or website title) here
+logo: "/images/logo2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Full Stack Data Scientists who are qualified to be Data Scientist, Data Analyst, Data Engineer or Machine Learning Engineer. 
   <br><br>
-  Second description 
+  Expertises
+-Identify, evaluate and manage relevant data sources to support data analytics and to meet business needs.
+-Recommend different systems, architectures and data storage technologies to support data-driven solutions.
+-Develop and deploy complete ML/Deep Learning systems.
+-Apply appropriate mathematical models, algorithms, tools and frameworks to develop A.I.
+-Design and present A.I. solutions effectively to stakeholders through the use of data visualizations.
+-Apply legal, ethical, privacy and security-related standards.
+-Implement A.I. systems on time and budget using best practices and strategies in design thinking, project management and lifecycle management. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/eduardomoraes/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-01Z0DYR22S # your Google Analytics tracking ID here
